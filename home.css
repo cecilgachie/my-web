@@ -1,0 +1,49 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    background-color: rgba(0, 0, 0, 0.774);
+    opacity: 2.0;
+    text-align: center;
+    font-size: 36pt;
+}
+
+h1{
+    font-weight: bold;
+    color: red;
+    text-shadow: 2px 2px 2px greenyellow;
+}
+
+.box{
+    max-width: 500px;
+    padding: 80px;
+    background-color: silver;
+    align-items: center;
+    box-shadow: 8pt 10pt 10pt green;
+    margin-left: 30%;
+}
+
+input[type=text]{
+    padding: 14px 18px;
+    width: 100%;
+    font-size: 36px;
+}
+
+p{
+    padding: 20px 0px;
+}
+
+select{
+    width: 100%;
+    padding: 14px 18px;
+    font-size: 36px;
+}
+
+button{
+    color: black;
+    width: 7em;
+    height: 3em;
+    background-color: blue;
+}
